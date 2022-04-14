@@ -10,12 +10,11 @@ body{
 
 .site-heading-lower{
     font-weight: bold;
-    font-style: italic;
     color: lightsalmon;
 }
 li {
     text-align: left;
-    color: lightblue;
+
 }
 ol {
     text-align: left; 
