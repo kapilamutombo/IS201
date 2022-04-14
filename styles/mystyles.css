@@ -3,8 +3,16 @@ body{
     background-image: url("../Images/Back.jpg");
 
 }
+.site-heading-upper text-primary mb-3{
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
+.site-heading-lower{
+    font-weight: bold;
+    font-style: italic;
 
+}
 li {
     text-align: left;
 
