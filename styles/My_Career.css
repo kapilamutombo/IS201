@@ -11502,12 +11502,14 @@ p{text-align: left;
     position:relative;
     top: 50%;
     align-content: center;
+    text-align: center;
     left:15%;
 }
 .bg-faded rounded p-5{
    position:relative;
    width: 150%;
    align-content: center;
+   text-align: center;
    
 }
 #Subject{
